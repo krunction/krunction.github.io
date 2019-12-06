@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## krunction's page of failed ideas.
 
 You can use the [editor on GitHub](https://github.com/krunction/krunction.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
